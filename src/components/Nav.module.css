@@ -1,0 +1,25 @@
+.nav {
+    grid-area: n;
+    background-color: #f7f8fa;
+    padding: 10px 10px 10px 10px;
+    font-size: 22px;
+}
+
+a {
+    color: #757575;
+    text-decoration: none;
+    padding: 0 10px 0 10px;
+}
+
+.item {
+    padding: 10px 10px 10px 10px;
+}
+
+.itemSetting {
+    padding-top: 100px;
+}
+
+.textBackground {
+    background-color: white;
+    border-radius: 15px;
+}

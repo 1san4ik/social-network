@@ -1,0 +1,22 @@
+.content {
+    grid-area: c;
+    background-color: #f7f8fa;
+    /* padding: 10px 5px 10px 5px; */
+}
+
+.contentLogo {
+    height: 250px;
+    overflow: hidden;
+    border-radius: 15px;
+}
+
+.content img {
+    width: 100%;
+}
+
+.imgAvatar img {
+    width: 200px;
+    height: 200px;
+    padding: 10px 0px 10px 0px;
+    border-radius: 15px;
+}

@@ -11,37 +11,3 @@
     grid-template-rows: 83px 1fr;
     grid-template-columns: 2fr 10fr;
 }
-
-.header img {
-    width: 83px;
-}
-
-.header {
-    grid-area: h;
-    background-color: #f8f9fb;
-    width: 100%;
-}
-
-.nav {
-    grid-area: n;
-    background-color: #f8f9fb;
-}
-
-.content {
-    grid-area: c;
-    background-color: burlywood;
-}
-
-.contentLogo {
-    height: 100px;
-    overflow: hidden;
-}
-
-.content img {
-    width: 100%;
-}
-
-.imgAvatar img {
-    width: 200px;
-    height: 200px;
-}
