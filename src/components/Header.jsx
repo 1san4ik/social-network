@@ -5,7 +5,7 @@ const Header = () => {
 	return (
 		<header className={classes.header}>
 			<img
-				src='https://toppng.com/uploads/preview/hoenix-kind-logo-vector-phoenix-bird-vector-11562899990gcdoe5osxb.png'
+				src='https://logo-suggestion.renderforest.com/suggestions-images/c1d0/6ed9/c1d06ed9b8563f7a6491462ad8d54b11.png'
 				alt='phoenix'
 			></img>
 		</header>

@@ -10,4 +10,6 @@
 
     grid-template-rows: 83px 1fr;
     grid-template-columns: 2fr 10fr;
+
+    color: #757575;
 }

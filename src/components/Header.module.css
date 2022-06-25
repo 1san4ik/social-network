@@ -1,6 +1,4 @@
-.header img {
-    width: 83px;
-}
+.header img {}
 
 .header {
     grid-area: h;

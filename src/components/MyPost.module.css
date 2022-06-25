@@ -1,0 +1,28 @@
+.postName {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.textField {
+    width: 98%;
+    resize: vertical;
+    height: 60px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border: 1px solid #757575;
+    font-size: 16px;
+
+}
+
+.buttonEnter {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid #757575;
+    float: right;
+}
+
+.buttonEnter:hover {
+    font-weight: bold;
+    background-color: #bebebe;
+}
