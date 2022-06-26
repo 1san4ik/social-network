@@ -1,7 +1,7 @@
 import './App.css';
-import Header from './components/Header';
-import Nav from './components/Nav';
-import Profiles from './components/Profiles';
+import Header from './components/Header/Header';
+import Nav from './components/Navigation/Nav';
+import Profiles from './components/Profiles/Profiles';
 
 function App() {
   return (
