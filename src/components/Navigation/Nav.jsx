@@ -6,10 +6,10 @@ const Nav = () => {
 		<nav className={classes.nav}>
 			<div className={classes.textBackground}>
 				<div className={classes.item}>
-					<a href='http://localhost:3000/'>Profiles</a>
+					<a href='/profiles'>Profiles</a>
 				</div>
 				<div className={classes.item}>
-					<a href='http://localhost:3000/'>Messages</a>
+					<a href='/dialogs'>Messages</a>
 				</div>
 				<div className={classes.item}>
 					<a href='http://localhost:3000/'>News</a>
