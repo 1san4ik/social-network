@@ -1,11 +1,14 @@
-.contentLogo {
+/* .contentLogo {
     height: 250px;
     overflow: hidden;
     border-radius: 15px;
-}
+} */
 
-.content img {
+.contentLogo img {
     width: 100%;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 15px;
 }
 
 .imgAvatar img {
